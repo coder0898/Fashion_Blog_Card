@@ -16,7 +16,7 @@ Your challenge is to build out this blog preview card and get it looking as clos
 
 ### Links
 
-Demo:
+Demo:https://fashion-blog-card.vercel.app/ .
 
 ## My process
 
